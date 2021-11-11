@@ -1,0 +1,4 @@
+{
+    "presets" :[ "@babel/preset-env"], // 把es6代码 转换成es5以下的规则
+    "plugins": []
+}
